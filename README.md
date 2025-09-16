@@ -56,6 +56,9 @@ Install dependencies:
 
 pip install -r requirements.txt
 
+Open the notebook in Google Colab or Jupyter
+https://colab.research.google.com/drive/1MrrZ8OdSYmvLAkY3yQkQTzof3fchux9T?usp=sharing
+
 
 
 👩‍💻 Author
